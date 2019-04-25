@@ -1,0 +1,14 @@
+{
+  "name": "robot",
+  "version": "1.0.0",
+  "description": "toy robot task",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "julia lax",
+  "license": "ISC",
+  "dependencies": {
+    "react-redux": "^7.0.2"
+  }
+}

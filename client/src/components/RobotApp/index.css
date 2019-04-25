@@ -1,0 +1,15 @@
+.robot-app {
+  background:black;
+  text-align: center;
+}
+
+.robot-app__header {
+  align-items: center;
+  background: rgb(246,76,229);
+  background: linear-gradient(180deg, rgba(246,76,229,1) 22%, rgba(0,0,0,1) 100%);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-family: 'androidnation';
+  justify-content: center;
+}
